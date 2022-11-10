@@ -19,7 +19,7 @@
 
             <div class="mt-10 sm:flex">
                 <div class="rounded-md shadow">
-                    <a href="https://cult-of-the-lamb.thunderstore.io/package/InfernoDragon0/CotLMiniMods/" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-500 hover:bg-red-600 md:py-4 md:text-lg md:px-10">
+                    <a href="https://www.nexusmods.com/cultofthelamb/mods/12" target="_blank" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-500 hover:bg-red-600 md:py-4 md:text-lg md:px-10">
                         Nexusmods
                     </a>
                 </div>
