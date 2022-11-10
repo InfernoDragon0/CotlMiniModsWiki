@@ -31,6 +31,5 @@
             <p class="mt-6 max-w-3xl text-xl text-gray-700">- New Divine Bell for the Kitchen II</p>
             <p class="mt-6 max-w-3xl text-xl text-gray-700">- Food Storage is now interactable</p>
             
-            
         </div>
 </template>

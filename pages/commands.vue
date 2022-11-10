@@ -12,7 +12,7 @@
                     <div class="bg-white shadow-xl overflow-hidden sm:rounded-lg">
                         <div class="px-4 py-5 sm:px-6">
                             <div :class="'h-96 ' + structures.className">
-                                <img class="" :src="`/_nuxt/assets/images/`+structures.animation"  alt="Structures">
+                                <nuxt-img class="" :src="`/images/`+structures.animation"  alt="Structures"/>
                             </div>
 
                             <h3 class="text-lg leading-6 font-medium text-gray-900">
