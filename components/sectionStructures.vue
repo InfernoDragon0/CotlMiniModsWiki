@@ -12,7 +12,7 @@
                                                                     
                         </h2>
                         <p class="mt-4 text-lg text-white">Many new structures are available, such as Follower Manager, mines, and desks.</p>
-                        <a href="#" class="mt-4 text-lg text-orange-800">Read more about it here.</a>
+                        <NuxtLink to="/structures" class="mt-4 text-lg text-orange-800">Read more about it here.</NuxtLink>
                         <!-- an image here on the right of the div-->
                     </div>
                 </div>

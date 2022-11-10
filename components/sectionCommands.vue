@@ -25,7 +25,7 @@
                                                                     
                         </h2>
                         <p class="mt-4 text-lg text-black">Commands to play Knucklebones, Divorce, Flip coins, and more.</p>
-                        <a href="#" class="mt-4 text-lg text-red-800">Read more about it here.</a>
+                        <NuxtLink to="/commands" class="mt-4 text-lg text-red-800">Read more about it here.</NuxtLink>
                         <!-- an image here on the right of the div-->
                     </div>
                 </div>

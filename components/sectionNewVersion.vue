@@ -21,7 +21,7 @@
                         </h2>
                         <p class="mt-4 text-lg text-black">Showcasing 3 new Rituals: Distribution, Frenzy, Fusion,
                             and several fixes to the follower roles.</p>
-                        <a href="#" class="mt-4 text-lg text-red-800">Read more about it here.</a>
+                        <a href="https://cult-of-the-lamb.thunderstore.io/package/InfernoDragon0/CotLMiniMods/" class="mt-4 text-lg text-red-800">Get it Now.</a>
                         <!-- an image here on the right of the div-->
                     </div>
                 </div>

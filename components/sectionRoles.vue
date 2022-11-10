@@ -12,7 +12,7 @@
                                                                     
                         </h2>
                         <p class="mt-4 text-lg text-white">New Jobs for your followers to help automate the cult a little more!</p>
-                        <a href="#" class="mt-4 text-lg text-orange-800">Read more about it here.</a>
+                        <NuxtLink to="/roles" class="mt-4 text-lg text-orange-800">Read more about it here.</NuxtLink>
                         <!-- an image here on the right of the div-->
                     </div>
                 </div>

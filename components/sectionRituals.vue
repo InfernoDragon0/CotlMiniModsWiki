@@ -17,7 +17,7 @@
                                                                     
                         </h2>
                         <p class="mt-4 text-lg text-black">Rituals to combine follower traits, level up, and reset cooldowns.</p>
-                        <a href="#" class="mt-4 text-lg text-red-800">Read more about it here.</a>
+                        <NuxtLink to="/rituals" class="mt-4 text-lg text-red-800">Read more about it here.</NuxtLink>
                         <!-- an image here on the right of the div-->
                     </div>
                 </div>
