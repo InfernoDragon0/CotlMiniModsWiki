@@ -30,6 +30,9 @@
                     <NuxtLink to="/changelog" class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-white mr-4">
                         Changelog
                     </NuxtLink>
+                    <NuxtLink to="/saveconverter" class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-white mr-4">
+                        Convert Saves
+                    </NuxtLink>
                     <NuxtLink to="/credits" class="block mt-4 lg:inline-block lg:mt-0 text-red-500 hover:text-white mr-4">
                         Credits
                     </NuxtLink>
