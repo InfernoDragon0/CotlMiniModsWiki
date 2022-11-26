@@ -14,7 +14,7 @@
             <!-- action button-->
             <div class="mt-8 flex">
                 <div class="inline-flex rounded-md shadow">
-                    <button @click="convert()" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700">
+                    <button @click="convert()" class="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-red-600 hover:bg-red-700">
                         Convert
                     </button>
                 </div>
