@@ -1,9 +1,11 @@
 <template>
     <div class="relative max-w-7xl mx-auto py-24 px-4 sm:py-32 sm:px-6 lg:px-8 snap-center">
             <h1 class="text-4xl font-extrabold tracking-tight text-black sm:text-5xl lg:text-6xl">Save Converter</h1>
-            <p class="mt-6 text-xl text-gray-700">Saves that created using COTL API 0.1.6 and below can be converted for 0.1.7 and above.</p>
-            <p class="mt-6 text-gray-700">Upload the file from "AppData\LocalLow\Massive Monster\Cult Of The Lamb\saves\cotl_api_data.json".</p>
-            <p class="mt-6 max-w-3xl text-xl text-gray-700">Coded by <a href="https://github.com/xhayper" class="text-red-400">hayper</a>.</p>
+            <p class="mt-6 text-xl text-gray-700">Saves created using <span class="text-red-700 font-extrabold">COTL API 0.1.6</span> and below can be converted for <span class="text-red-700 font-extrabold">COTL API 0.1.7</span> and above.</p>
+            <p class="mt-6 text-gray-700">1. Upload file named <span class="text-red-700 font-extrabold">'cotl_api_data.json'</span>. If you do not have it, that means you do not have a previous save using COTL API 0.1.6.</p>
+            <p class="mt-6 text-gray-700">2. Converted file will be named <span class="text-red-700 font-extrabold">'io.github.xhayper.COTL_API.json'</span>. Put it in the same folder as the other json file.</p>
+            <p class="mt-6 text-gray-700 font-light">For Windows, you can find the old save "AppData\LocalLow\Massive Monster\Cult Of The Lamb\saves\cotl_api_data.json".</p>
+            <p class="mt-6 max-w-3xl text-xl text-gray-700">This converter is coded by <a href="https://github.com/xhayper" class="text-red-400">hayper</a>!</p>
             <!--Upload file-->
             <div class="mt-6 max-w-3xl text-xl text-gray-700">
                 <input type="file" id="file" ref="filez" @change="onFileChange" />
