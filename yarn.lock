@@ -400,10 +400,10 @@
   "resolved" "https://registry.npmjs.org/@nuxt/devalue/-/devalue-2.0.0.tgz"
   "version" "2.0.0"
 
-"@nuxt/image-edge@^1.0.0-27769790.4b27db3":
-  "integrity" "sha512-1QSKE7HAIk8b/LeC4ff52Tsx0Z9M0V7xg+QqQh/l6jwkMlzvi6kqVXDT1AeiCwXOQX6IaOhASaEX6AgMx8jr3g=="
-  "resolved" "https://registry.npmjs.org/@nuxt/image-edge/-/image-edge-1.0.0-27821548.ab054e4.tgz"
-  "version" "1.0.0-27821548.ab054e4"
+"@nuxt/image-edge@^1.0.0-27827328.bc9ddc0":
+  "integrity" "sha512-8fy6dSJaH9I5FKPK4EA6ddgUWNkxz2Y1AGIKVbAaRKftyK4y66gHmA+pbPPjb1cgYw6pWoWrnA4JxsHKelD8+A=="
+  "resolved" "https://registry.npmjs.org/@nuxt/image-edge/-/image-edge-1.0.0-27827328.bc9ddc0.tgz"
+  "version" "1.0.0-27827328.bc9ddc0"
   dependencies:
     "@nuxt/kit" "^3.0.0"
     "consola" "^2.15.3"
